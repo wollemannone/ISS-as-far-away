@@ -3,12 +3,17 @@
 This Project, wich took about four weeks was about the visualisation of data. 
 The assingnment contained, that we should use the [API of the ISS](http://open-notify.org/Open-Notify-API/ISS-Location-Now/) geo coordinates. Coming from there we should find a good reference data set to visualise.
 
+===
+
 
 ###five finger excercise
 
 After a couple of short excercises to get to know how to handle the JSON format, we faced the first challange. The task was to write a program wich visualises a dataset ,in my case the cookingtimes of vegetables, in a clear way. We worked with the java script library p5js.  
 [Here](http://wollemannone.github.io/veggieManiacc-/) you can find the resut of this excercise.  
 The whole [GitHup Repo](https://github.com/wollemannone/veggieManiacc-) you can find here.
+
+
+===
 
 ###two ideas | ISS  
   
@@ -31,8 +36,10 @@ The whole [GitHup Repo](https://github.com/wollemannone/veggieManiacc-) you can 
   interisting for the astronauts but also for their relatives.   
   
   Tools: API, p5js
-  
+  ---
   Due to the fact that I already made some steps in p5js, I wanted to stick to that tool and write a code to create my visualisation.  
+  
+  ===
   
   
   
