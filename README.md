@@ -10,7 +10,7 @@ The assingnment contained, that we should use the [API of the ISS](http://open-n
 
 After a couple of short excercises to get to know how to handle the JSON format, we faced the first challange. The task was to write a program wich visualises a dataset ,in my case the cookingtimes of vegetables, in a clear way. We worked with the java script library p5js.  
 [Here](http://wollemannone.github.io/veggieManiacc-/) you can find the resut of this excercise.  
-The whole [GitHup Repo](https://github.com/wollemannone/veggieManiacc-) you can find here.
+The whole [GitHub Repo](https://github.com/wollemannone/veggieManiacc-) you can find here.
 
 
 ===
@@ -31,6 +31,9 @@ The whole [GitHup Repo](https://github.com/wollemannone/veggieManiacc-) you can 
   >
   >
   >Tools:  Ai, Id, Excel, import.io...
+  
+  
+![](images/ISS_2.jpg)
   
   The **second concept** deals with the issue from another perspective. The **personal sensation** when rounding 
   the globe sixteen times a day, was in the center of  this concept. The longing for home is  something wich companies every   traveller more or less. Because of the very divers origins of the ISS team members, there was an interesting fact. The distance to the individual home spot is changing fast, constantly and apparently individually.  
