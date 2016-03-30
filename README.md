@@ -38,8 +38,11 @@ The whole [GitHup Repo](https://github.com/wollemannone/veggieManiacc-) you can 
   Tools: API, p5js
   ---
   Due to the fact that I already made some steps in p5js, I wanted to stick to that tool and write a code to create my visualisation.  
-  
-  ===
+
+
+
+
+===
   
   
   
