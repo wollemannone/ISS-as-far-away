@@ -51,6 +51,13 @@ The whole [GitHup Repo](https://github.com/wollemannone/veggieManiacc-) you can 
 >Necessary for displaying the distance was a calculation. considering that, the geocoordinates of the home places
 >were needed and calculated with the ISS geocoordinates with the following formula.  
  
+
+
+##### The process
+
+![](images/Doku_1.jpg)
+
+
  As presentation I decided for a circular diagram. All the home spots are bounded is the center. So the individual distance is diametricy.Furthermore the color of the single circle is mapped to the distance home. It gets colder the farer the distance is. The effect is more arty than scientific. But it invites to explore and to understand. Imaginable is a huge like wall filling format in a exhibitional context. With rollover functions you could also display information about the ISS travellers or their origions. Another context could be an App for smartphone or watch. That would be just for the relatives of the astronauts to allway have an idea how far away he actually is.
   
 
