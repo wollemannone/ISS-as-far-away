@@ -36,7 +36,7 @@ The whole [GitHub Repo](https://github.com/wollemannone/veggieManiacc-) you can 
 ![](images/ISS_2.jpg)
   
   The **second concept** deals with the issue from another perspective. The **personal sensation** when rounding 
-  the globe sixteen times a day, was in the center of  this concept. The longing for home is  something wich companies every   traveller more or less. Because of the very divers origins of the ISS team members, there was an interesting fact. The distance to the individual home spot is changing fast, constantly and apparently individually.  
+  the globe sixteen times a day, was in the center of  this concept. The longing for home is  something wich companies every   traveller more or less. Because of the very divers origins of the ISS team members, there was an interesting fact. The distance to the individual home spot is changing fast, constantly and apparently unattached.  
   There I found the data I wanted to work with. To visualise the distance between the ISS and the home places would be 
   interisting for the astronauts but also for their relatives.   
   
@@ -72,8 +72,12 @@ The whole [GitHub Repo](https://github.com/wollemannone/veggieManiacc-) you can 
 ===
 ---
 
+###The application
 
- As presentation I decided for a circular diagram. All the home spots are bounded is the center. So the individual distance is diametricy.Furthermore the color of the single circle is mapped to the distance home. It gets colder the farer the distance is. The effect is more arty than scientific. But it invites to explore and to understand. Imaginable is a huge like wall filling format in a exhibitional context. With rollover functions you could also display information about the ISS travellers or their origions. Another context could be an App for smartphone or watch. That would be just for the relatives of the astronauts to allway have an idea how far away he actually is.
+
+ As presentation I decided for a circular diagram. All the home spots are bunched is the center. So the individual distance is diametricy.Furthermore the color of the single circle is mapped to the distance home. It gets colder the farer the distance is. The effect is more arty than scientific. But it invites to explore and to understand. Imaginable is a huge, wall filling format in a exhibitional context. With rollover functions you could also display information about the ISS travellers or their origins. Another context could be an App for smartphone or watch. That would be just for the relatives of the astronauts to allway have an idea how far away he actually is.
+
+
   
   
   ![](images/Dist_Home.png)
