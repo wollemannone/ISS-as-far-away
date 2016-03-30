@@ -16,9 +16,12 @@ After a couple of short excercises to get to know how to handle the JSON format,
   
   After the fist two weeks I was facing two concepts:  
   
-  The **first concept** was concerned about the scientific experiments, wich are runned in the ISS. The idea was to
+  The **first concept** was concerned about the **scientific experiments**, wich are runned in the ISS. The idea was to
   creat an info grafic, wich shows the financial system behind the research projects. It would make the obserever explore 
   which country or wich organisation invests how much in wich project. Futhermore there should be shown, to what extend 
-  the results have an influence of our life on earth. The viewer should see wich money causes wich effort for the humans.
+  the results have an influence of our life on earth. The viewer should see wich money causes wich improvement for the humans and wich scientifec areas actually benefit of the pricey experiments.  
+  
+  The **second concept**
+
 
 
